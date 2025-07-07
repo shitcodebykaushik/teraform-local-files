@@ -1,6 +1,8 @@
 # My Terraform Project
 
-![Terraform Logo](https://raw.githubusercontent.com/hashicorp/terraform-website/main/content/img/terraform-logo-2.svg)
+<p align="center">
+  <img src="assets/HashiCorp Terraform.png" alt="Terraform Logo">
+</p>
 
 This repository contains Terraform configurations to define and provision infrastructure as code.
 
@@ -17,3 +19,4 @@ While this specific example focuses on a local resource, the principles learned 
 * **Reproducibility:** Ensures consistent deployments across environments.
 * **Dependency Locking:** Uses `.terraform.lock.hcl` to pin provider versions for reliability.
 
+## 📁 Project Structure
